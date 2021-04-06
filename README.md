@@ -12,8 +12,6 @@ You can use Pluto in the command line to run your files:
 foo:~$ pluto /location/of/pluto-file.plu
 ```
 
-See [the wiki](https://github.com/lukarao/Pluto/wiki) for more detailed documentation on the language and command line usage.
-
 ## Compatibility
 Pluto has been tested on Windows 10 (Pluto might not work on older or newer versions of Windows). I am currently working on Pluto compatibility for MacOS. 
 
