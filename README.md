@@ -1,10 +1,9 @@
 # Pluto
 #### v0.0.1 beta
-Pluto is a small, new programming language written 100% in Python 3. I made this language partly for fun but also to add another small and easy-to-learn programming language out there. My goal is to eventually implement complex functions and have many libraries and APIs for Pluto.
+Pluto is a small, new programming language written 100% in Python 3. I made this language partly for fun but also to add another small and easy-to-learn programming language out there.
 
 ## Installation
 Currently, the only way to install Pluto is to download the files from GitHub and use `python install /location/of/pluto/download` to install it onto your system.
-In the future, I may make an application (maybe an IDE to go with it) for Windows and MacOS.
 
 ## Usage
 You can use Pluto in the command line to run your files:
@@ -13,7 +12,7 @@ foo:~$ pluto /location/of/pluto-file.plu
 ```
 
 ## Compatibility
-Pluto has been tested on Windows 10 (Pluto might not work on older or newer versions of Windows). I am currently working on Pluto compatibility for MacOS. 
+Pluto has been tested on Windows 10 (Pluto might not work on older or newer versions of Windows).
 
 ## Dependencies
 The Pluto compiler is made using Python and built-in Python packages/modules (json, re, sys, time, subprocess, os, contextlib, itertools, ast and distutils), so all you need is a Python interpreter. 
